@@ -1,5 +1,5 @@
-public-data
-===========
+Paperscape data
+===============
 
 Publicly available graph data for Paperscape (http://paperscape.org) in CSV format. Includes authors, title and references.
 
