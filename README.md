@@ -10,6 +10,6 @@ If you use this data, please give us credit. We are in the process of writing a 
     author = {Damien P. George and Robert Knegjens},
     title = {Paperscape},
     howpublished = {\url{http://paperscape.org}},
-    doi = {doi of this release}
+    doi = {10.5281/zenodo.10052},
 }
 ```
