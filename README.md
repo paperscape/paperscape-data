@@ -15,7 +15,7 @@ If you use this data, please give us credit. We are in the process of writing a 
 ```
 
 Extraction success
-==================
+------------------
 
 These numbers correspond to the data set of 1991 to the end of 2013 (v2013.12 - released May 22nd 2014).
 There were 903346 entries with a total of 27,361,907 references, of which we were able to match 11,131,443 with an arXiv id (40.68%).
@@ -60,3 +60,8 @@ Our algorithms are currently most successful for high energy physics categories,
 | bayes-an |     11 |          2 |         91 |       0.18 |       8.27 |  2.20% |
 |   cmp-lg |    894 |         75 |       9467 |       0.08 |      10.59 |  0.79% |
 |   ao-sci |     13 |          2 |        292 |       0.15 |      22.46 |  0.68% |
+
+License
+-------
+
+This Paperscape data is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/ - See more at: http://opendatacommons.org/licenses/odbl/#sthash.INIaa7OJ.dpuf
