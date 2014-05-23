@@ -19,7 +19,7 @@ Extraction success
 
 These numbers correspond to the data set of 1991 to the end of 2013 (v2013.12 - released May 22nd 2014).
 There were 903346 entries with a total of 27,361,907 references, of which we were able to match 11,131,443 with an arXiv id (40.68%).
-Note that not every reference has a corresponding arXiv id, nor have we succesfully identified every reference that does.
+Note that not every reference has a corresponding arXiv id, nor have we successfully identified every reference that does.
 Our algorithms are currently most successful for high energy physics categories, which can be seen in the following table summarising the extraction success per category:
 
 | Category | Papers | ArXiv refs | Total refs | Avg. arXiv | Avg. total |  Ratio |
