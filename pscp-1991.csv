@@ -1,0 +1,320 @@
+# Data from paperscape.org
+# If you use this data, please give due credit to: Damien P. George and Rob Knegjens, Paperscape
+# A citable DOI for this data can be found at http://github.com/paperscape/paperscape-data
+#
+# Format is 1 line per entry, with 7 fields separated by semicolons:
+# arxiv-id;comma-separated-arxiv-categories;num-found-refs;num-total-refs;comma-separated-refs;comma-separated-authors;title
+# Parse with Python code: entries = [line.split(";", 7) for line in open("file")]
+# See comments at the bottom of this file for statistics
+hep-lat/9107001;hep-lat;0;0;;U.M.Heller,H.Neuberger,P.Vranas;How to Put a Heavier Higgs on the Lattice
+hep-lat/9107002;hep-lat;0;0;;N.A.Alves,B.Al.Berg,S.Sanielevici;Spectral Density Study of the SU(3) Deconfining Phase Transition
+hep-th/9108001;hep-th;0;0;;J.H.Horne,G.T.Horowitz;Exact Black String Solutions in Three Dimensions
+hep-th/9108002;hep-th;0;0;;A.Mikovic;Hamiltonian construction of W-gravity actions
+hep-th/9108003;hep-th;0;17;;K.Huitu,D.Nemeschansky;Supersymmetric Gelfand-Dickey Algebra
+hep-th/9108004;hep-th;0;24;;E.Witten;Ground Ring Of Two Dimensional String Theory
+hep-th/9108005;hep-th;0;28;;K.Intriligator;Fusion Residues
+hep-th/9108006;hep-th;0;0;;H.Ooguri,N.Sasakura;Discrete and Continuum Approaches to Three-Dimensional Quantum Gravity
+hep-th/9108007;hep-th;0;26;;A.LeCLair,F.Smirnov;Infinite Quantum Group Symmetry of Fields in Massive 2D Quantum Field Theory
+hep-th/9108008;hep-th;0;32;;J.Sonnenschein,S.Yankielowicz;Novel Symmetries of Topological Conformal Field theories
+hep-th/9108009;hep-th;0;0;;P.A.Griffin;Solving 3+1 QCD on the Transverse Lattice Using 1+1 Conformal Field Theory
+hep-th/9108010;hep-th;0;35;;M.Spiegelglas;String Winding in a Black Hole Geometry
+hep-th/9108011;hep-th;0;0;;A.Sen;Twisted Black p-Brane Solutions in String Theory
+hep-th/9108012;hep-th;0;0;;G.Gilbert;On the Perturbations of String-Theoretic Black Holes
+hep-th/9108013;hep-th;0;0;;W.Lerche,D.Smit,N.Warner;Differential Equations for Periods and Flat Coordinates in Two Dimensionsional Topological Matter Theories
+hep-th/9108014;hep-th;0;51;;C.Crnkovic,M.Douglas,G.Moore;Loop Equations and the Topological Phase of Multi-Cut Matrix Models
+hep-th/9108015;hep-th;0;0;;F.David,H.Neuberger;A $U(N)$ Gauge Theory in Three Dimensions as an Ensemble of Surfaces
+hep-th/9108016;hep-th;0;29;;S.Dalley,C.Johnson,T.Morris;Non-Perturbative 2D Quantum Gravity, Again
+hep-th/9108017;hep-th;0;0;;C.Gomez,G.Sierra;A New Solution to the Star--Triangle Equation Based on U$_q$(sl(2)) at Roots of Unit
+hep-th/9108018;hep-th;0;25;;J.Lukierski,A.Novicki,H.Ruegg;Real Forms of Complex Quantum Anti de Sitter Algebra $U_q (Sp(4,C))$ and their Contraction Schemes
+hep-th/9108019;hep-th;0;0;;I.R.Klebanov;String Theory in Two Dimensions
+hep-th/9108020;hep-th;0;0;;J.A.Harvey,A.Strominger;String Theory and the Donaldson Polynomial
+hep-th/9108021;hep-th;0;0;;N.Berkovits,M.T.Hatsuda,W.Siegel;The big picture
+hep-th/9108022;hep-th;0;67;;J.H.Schwarz;Superstring Compactification and Target Space Duality
+hep-th/9108023;hep-th;0;0;;P.Bouwknegt,J.McCarthy,K.Pilch;Fock space resolutions of the Virasoro highest weight modules with c<=1
+hep-th/9108024;hep-th;0;25;;F.Colomo,A.Koubek,G.Mussardo;On the S-matrix of the Sub-leading Magnetic Deformation of the Tricritical Ising Model in Two Dimensions
+hep-th/9108025;hep-th;0;35;;E.Abdalla,M.C.B.Abdalla,D.Dalmazi,K.Harada;Correlation functions in super Liouville theory
+hep-th/9108026;hep-th;0;23;;S.Nojiri;Superstring in Two Dimensional Black Hole
+hep-th/9108027;hep-th;0;0;;N.Sakai,Y.Tanii;Factorization and Topological States in $c=1$ Matter Coupled to 2-D Gravity
+hep-th/9108028;hep-th;0;0;;P.Ginsparg;Applied Conformal Field Theory
+hep-th/9109001;hep-th;0;19;;P.C.Argyres,S.-H.H.Tye;Fractional Superstrings with Space-Time Critical Dimensions Four and Six
+hep-th/9109002;hep-th;0;0;;G.T.Horowitz;Ashtekar's Approach to Quantum Gravity
+hep-th/9109003;hep-th;0;40;;J.Bienkowska;The renormalization group flow in 2D N=2 SUSY Landau-Ginsburg models
+hep-th/9109004;hep-th;0;0;;X.Shen,X.J.Wang;Bosonisation of the Complex-boson realisation of $W_∞$
+hep-th/9109005;hep-th;0;72;;P.D.Francesco,D.Kutasov;World Sheet and Space Time Physics in Two Dimensional (Super) String Theory
+hep-th/9109006;hep-th;0;19;;S.Carlip;(2+1)-Dimensional Chern-Simons Gravity as a Dirac Square Root
+hep-th/9109007;hep-th;0;28;;J.Polchinski;High Temperature Limit of the Confining Phase
+hep-th/9109008;hep-th;0;27;;Z.Yang;Effective Superstrings
+hep-th/9109009;hep-th;0;38;;F.Yu;Bi-Hamiltonian Sturcture of Super KP Hierarchy
+hep-th/9109010;hep-th;0;19;;A.Deckmyn,S.Schrans;W3 Constructions on Affine Lie Algebras
+hep-th/9109011;hep-th;0;37;;M.Caselle,R.Fiore,F.Gliozzi,P.Provero,S.Vinti;Critical Boundary Conditions for the Effective String
+hep-th/9109012;hep-th;0;23;;D.Minic,Z.Yang;Is S=1 for c=1?
+hep-th/9109013;hep-th;0;0;;D.Karabali;Collective Field Representation of Nonrelativistic Fermions in (1+1) Dimensions
+hep-th/9109014;hep-th;0;0;;N.J.Burroughs,Mark F.deGroot,T.J.Hollowood,J.L.Miramontes;Generalized Drinfeld-Sokolov Hierarchies II: The Hamiltonian Structures
+hep-th/9109015;hep-th;0;0;;A.Schwarz;On the solutions to the string equation
+hep-th/9109016;hep-th;1;44;hep-th/9201061;F.D.Mazzitelli,N.Mohammedi;Classical Gravity Coupled to Liouville Theory
+hep-th/9109017;hep-th;0;14;;M.Bauer,N.Sochen;Singular vectors by Fusions in affine su(2)
+hep-th/9109018;hep-th;0;0;;J.Ambjorn,C.V.Johnson,T.R.Morris;Stochastic Quantization vs. KdV Flows in 2D Quantum Gravity
+hep-th/9109019;hep-th;0;75;;G.Felder,A.LeClair;Restricted Quantum Affine Symmetry of Perturbed Minimal Models
+hep-th/9109020;hep-th;0;25;;A.LeClair;Infinite Quantum Group Symmetry in 2d Quantum Field Theory
+hep-th/9109021;hep-th;0;57;;P.Fendley;Excited-state thermodynamics
+hep-th/9109022;hep-th;0;0;;A.Sen;Some Applications of String Field Theory
+hep-th/9109023;hep-th;0;55;;F.Falceto,K.Gawedzki;On quantum group symmetries of conformal field theories
+hep-th/9109024;hep-th;0;36;;K.Aoki,E.D'Hoker;On the Liouville Approach to Correlation Functions for 2-D Quantum Gravity
+hep-th/9109025;hep-th;0;49;;K.Aoki,E.D'Hoker;Correlation functions of minimal models coupled to two dimensional quantum supergravity
+hep-th/9109026;hep-th;0;0;;S.P.Khastgir,A.Kumar;String Effective Action and Two Dimensional Charged Black Hole
+hep-th/9109027;hep-th;0;61;;J.Ellis,N.E.Mavromatos,D.V.Nanopoulos;On the connection between Quantum Mechanics and the geometry of two-dimensional strings
+hep-th/9109028;hep-th;0;0;;S.K.Rama;New Special Operators in $W$-Gravity Theories
+hep-th/9109029;hep-th;0;64;;I.Bakas,E.Kiritsis;Beyond the Large N Limit: Non-linear W(infinity) as symmetry of the SL(2,R)/U(1) coset model
+hep-th/9109030;hep-th;0;0;;G.T.Horowitz;Topology Change in General Relativity
+hep-th/9109031;hep-th;0;40;;N.Mohammedi;Constant Curvature and Non-Perturbative W3 Gravity
+hep-th/9109032;hep-th;0;17;;I.R.Klebanov,A.M.Polyakov;Interaction of Discrete States in Two-Dimensional String Theory
+hep-th/9109033;hep-th;0;10;;J.T.Wheeler;SU(3) x SU(2) x U(1): The residual symmetry of extended conformal gravity
+hep-th/9109034;hep-th;0;0;;C.G.Torre;A Deformation Theory of Self-Dual Einstein Spaces
+hep-th/9109035;hep-th;0;0;;B.Gato-Rivera,A.N.Schellekens;Classification of Simple Current Invariants
+hep-th/9109036;hep-th;0;33;;A.V.Proeyen;Batalin-Vilkovisky Lagrangian Quantisation
+hep-th/9109037;hep-th;0;37;;L.A.-G.Ph.Zaugg;Some Correlation Functions of Minimal Superconformal Models Coupled to Supergravity
+hep-th/9109038;hep-th;0;0;;S.F.Hassan,A.Sen;Twisting Classical Solutions in Heterotic String Theory
+hep-th/9109039;hep-th;0;0;;J.P.Gauntlett;A $κ$-Symmetry Calculus for Superparticles
+hep-th/9109040;hep-th;0;12;;T.Banks,M.Dine,N.Seiberg;Irrational Axions as a Solution of The Strong CP Problem in an Eternal Universe
+hep-th/9109041;hep-th;0;0;;A.Cappelli,J.I.Latorre,X.Vilasis-Cardona;Renormalization Group Patterns and C-Theorem in More Than Two Dimensions
+hep-th/9109042;hep-th;0;25;;P.D.Francesco,P.Mathieu;Singular Vectors and Conservation Laws of Quantum KdV type equations
+hep-th/9109043;hep-th;0;0;;M.Cvetic;Implications of Target Space Duality
+hep-th/9109044;hep-th;1;43;hep-th/9205068;M.Cvetic;Topological Defects in the Moduli Sector of String Theory
+hep-th/9109045;hep-th;0;12;;T.Banks,M.Dine;Note on Discrete Gauge Anomalies
+hep-th/9109046;hep-th;0;0;;T.Hollowood,L.Miramontes,A.Pasquinucci,C.Nappi;Hermitian vs. Anti-Hermitian 1-Matrix Models and Their Hierarchies
+hep-th/9109047;hep-th;0;32;;O.Alvarez,I.M.Singer,P.Windey;The supersymmetric sigma model and the geometry of the Weyl-Kac character formula
+hep-th/9109048;hep-th;0;0;;A.A.Tseytlin,C.Vafa;Elements of String Cosmology
+hep-th/9109049;hep-th;0;41;;J.Garcia-Bellido,M.quiros;Extended Inflation from Strings
+hep-th/9109050;hep-th;0;0;;L.Alvarez-Gaume,Ph.Zaugg;Structure constants in the N=1 superoperator algebra
+hep-th/9109051;hep-th;0;0;;C.P.Burgess,A.L.Marini;The Damping of Energetic Gluons and Quarks in High-Temperature QCD
+hep-th/9109052;hep-th;0;34;;C.G.Callan Jr;Instantons and Solitons in Heterotic String Theory
+hep-th/9109053;hep-th;0;0;;L.Ibanez,D.Luest,G.Ross;Gauge Coupling Running in Minimal SU(3)xSU(2)xU(1) Superstring Unification
+hep-th/9109054;hep-th;0;0;;L.Bonora,M.Martellini,C.S.Xiong;Integrable Discrete Linear Systems and One-Matrix Model
+hep-th/9109055;hep-th;0;0;;M.Evans,I.Giannakis;Deformations, Symmetries and Topological Degrees of Freedom of the String
+hep-th/9109056;hep-th;0;0;;E.Corrigan,P.E.Dorey;A representation of the exchange relation for affine Toda field theory
+hep-th/9109057;hep-th;0;21;;F.Ravanini;On the possibility of $Z_N$ exotic supersymmetry in two dimensional Conformal Field Theory
+hep-th/9109058;hep-th;0;46;;D.Bernard;Quantum Symmetries in 2D Massive Field Theories
+hep-th/9110001;hep-th;0;46;;M.B.Halpern,E.B.Kiritsis,N.A.Obers;The Lie h-Invariant Conformal Field Theories and the Lie h-Invariant Graphs
+hep-th/9110002;hep-th;0;28;;M.Caselle,F.Gliozzi;The Effective String of 3D Gauge Systems at the Deconfining Transition
+hep-th/9110003;hep-th;0;0;;P.Mathieu,D.Senechal,M.Walton;Field Identification in Non-Unitary Diagonal Cosets
+hep-th/9110004;hep-th;0;17;;K.A.Meissner,G.Veneziano;Manifestly $O(d,d)$ Invariant Approach to Space-Time Dependent String Vacua
+hep-th/9110005;hep-th;0;23;;S.Carlip,I.I.Kogan;Three-Dimensional Gravity and String Ghosts
+hep-th/9110006;hep-th;0;9;;Z.Maassarani;On the Solution of Topological Landau-Ginzburg Models with $c=3$
+hep-th/9110007;hep-th;0;0;;P.Bouwknegt,J.McCarthy,K.Pilch;Some aspects of free field resolutions in 2D CFT with application to the quantum Drinfeld-Sokolov reduction
+hep-th/9110008;hep-th;0;30;;D.Luest;Duality Invariant Effective String Actions and Minimal Superstring Unification
+hep-th/9110009;hep-th;0;0;;J.Ellis,Y.Frishman,M.Karliner;Constituent Quarks as Solitons
+hep-th/9110010;hep-th;0;0;;T.Hollowood;Quantum Solitons in Affine Toda Field Theories
+hep-th/9110011;hep-th;0;0;;A.Strominger;Quantum Gravity and String Theory, What Have We Learned?
+hep-th/9110012;hep-th;0;57;;K.Roland;From factorizable S-matrices to conformal invariance
+hep-th/9110013;hep-th;0;51;;K.Itoh,N.Ohta;Brst Cohomology and Physical States in 2D Supergravity Coupled to ${\hat c} ≤1$ Matter
+hep-th/9110014;hep-th;0;28;;B.R.Greene,M.R.Plesser;Mirror Manifolds: A Brief Review and Progress Report
+hep-th/9110015;hep-th;0;0;;C.N.Pope,L.J.Romans,E.Sezgin,K.S.Stelle;The $W_3$-string spectrum
+hep-th/9110016;hep-th;0;1;;S.Ben-Menahem;Self-Gravitating Strings In 2+1 Dimensions
+hep-th/9110017;hep-th;0;8;;H.Verlinde,E.Verlinde;Scattering at Planckian Energies
+hep-th/9110018;hep-th;0;24;;F.Ravanini;RG flows of non-diagonal minimal models perturbed by $φ_{1,3}$
+hep-th/9110019;hep-th;0;30;;A.Cappelli,conference proceedings;Classical Dynamics of Point Particles in 2+1 Gravity
+hep-th/9110020;hep-th;0;19;;A.Cappelli,M.Ciafaloni,P.Valtancoli;Classical Scattering in 2+1 Gravity with N Spinning Sources
+hep-th/9110021;hep-th;0;0;;S.R.Das,A.Dhar,G.Mandal,S.R.Wadia;Gauge Theory Formulation of the $c=1$ Matrix Model: Symmetries and Discrete States
+hep-th/9110022;hep-th;0;0;;J.Govaerts,A.Morozov;Universal Field Equations with Covariant Solutions D.B. Fairlie
+hep-th/9110023;hep-th;1;43;hep-th/9205068;S.Kalara,J.Lopez,D.Nanopoulos;Gauge and Matter Condensates in Realistic String Models
+hep-th/9110024;hep-th;0;0;;N.Burroughs,M.de Groot,T.Hollowood,L.Miramontes;Generalized W-algebras and Integrable Hierarchies
+hep-th/9110025;hep-th,math.QA;0;0;;N.J.Burroughs;Coadjoint Orbits of the Generalised Sl(2) Sl(3) Kdv Hierarchies
+hep-th/9110026;hep-th;0;48;;D.C.Lewellen;Effective String Amplitudes for Hadronic Physics
+hep-th/9110027;hep-th;0;32;;Y.Matsuo;Classical W-symmetry and Grassmannian Manifold
+hep-th/9110028;hep-th;0;25;;J.-L.Gervais,Y.Matsuo;W-Geometries
+hep-th/9110029;hep-th;0;25;;M.Li;Correlators of Special States in c=1 Liouville Theory
+hep-th/9110030;hep-th;0;31;;Vl.S.Dotsenko;Correlation Functions of Local Operators in 2D Gravity Coupled to Minimal Matter
+hep-th/9110031;hep-th;0;0;;P.Bouwknegt,J.McCarthy,K.Pilch;BRST Analysis of Physical States for 2D (Super) Gravity Coupled to (Super) Conformal Matter
+hep-th/9110032;hep-th;0;17;;L.A.Ferreira,J.F.Gomes,A.Schwimmer,A.H.Zimerman;Comments on Two-Loop Kac-Moody Algebras
+hep-th/9110033;hep-th;0;0;;C.N.Pope;Anomaly-free $W$-gravity Theories
+hep-th/9110034;hep-th;0;31;;M.Bershadsky,D.Kutasov;Open String Theory in 1+1 Dimensions
+hep-th/9110035;hep-th;0;27;;C.Ahn,M.Rocek,K.Schoutens,A.Sevrin;Superspace WZW Models and Black Holes
+hep-th/9110036;hep-th;1;123;hep-th/9205068;J.Lopez,D.Nanopoulos;Flipped SU(5): Origins and Recent Developments
+hep-th/9110037;hep-th;0;53;;A.Linde;Hard Art of the Universe Creation
+hep-th/9110038;hep-th;0;0;;D.Ghoshal,A.Sen;Gauge and General Coordinate Invariance in Non-Polynomial Closed String Field Theory
+hep-th/9110039;hep-th;0;17;;S.Hwang;Cosets as gauge slices in SU(1,1) strings
+hep-th/9110040;hep-th;0;34;;K.-ichiro.Kobayashi,T.Uematsu;S-matrix of N=2 Supersymmetric Sine-Gordon Theory
+hep-th/9110041;hep-th;0;72;;D.Kutasov;Some Properties of (Non) Critical Strings
+hep-th/9110042;hep-th;0;0;;V.P.Nair;Kähler-Chern-Simons Theory
+hep-th/9110043;hep-th;0;0;;N.D.Mermin;Copernican Crystallography
+hep-th/9110044;hep-th;0;43;;S.Nojiri;(Super-) String in Two Dimensional Black Hole and Target Space Dualities
+hep-th/9110045;hep-th;0;0;;K.Kimura;Hamiltonian Reduction of Super Osp(1,2)} and Sl(2,1) Kac-Moody Algebras
+hep-th/9110046;hep-th;0;19;;C.G.Callan,Jr.,D.Freed;Phase Diagram of the Dissipative Hofstadter Model
+hep-th/9110047;hep-th;0;50;;T.R.Klassen,E.Melzer;Rg Flows in the $D$-Series of Minimal Cfts
+hep-th/9110048;hep-th;0;32;;P.S.Aspinwall,D.R.Morrison;Topological Field Theory and Rational Curves
+hep-th/9110049;hep-th;0;0;;L.Mezincescu,R.I.Nepomechie;Exactly Solved Models with Quantum Algebra Symmetry
+hep-th/9110050;hep-th;0;0;;L.Mezincescu,R.I.Nepomechie;Analytical Bethe Ansatz for Quantum-Algebra-Invariant Spin Chains
+hep-th/9110051;hep-th;0;19;;J.L.Miramontes,J.S.Guillen;Instantons in the Quantum Framework of 2D Gravity
+hep-th/9110052;hep-th;0;37;;P.C.Argyres,J.M.Grochocinski,S.-H.H.Tye;Structure Constants of the Fractional Supersymmetry Chiral Algebras
+hep-th/9110053;hep-th;0;22;;M.Rocek,E.Verlinde;Duality, Quotients, and Currents
+hep-th/9110054;hep-th;0;30;;I.Bars,K.Sfetsos;Generalized Duality and Singular Strings in Higher Dimensions
+hep-th/9110055;hep-th;0;64;;D.Nemeschansky,N.P.Warner;Topological Matter, Integrable Models and Fusion Rings
+hep-th/9110056;hep-th,math.DG,math.QA;0;0;;S.Axelrod,I.M.Singer;Chern-Simons Perturbation Theory
+hep-th/9110057;hep-th;0;10;;S.Mizoguchi,T.Tada;3-dimensional Gravity from the Turaev-Viro Invariant
+hep-th/9110058;hep-th;0;0;;P.Dorey;Root Systems and Purely Elastic S-Matrices II
+hep-th/9110059;hep-th;0;47;;J.L.Vazquez-Bello;On the Covariant Quantization of the 2nd-Ilk Superparticle
+hep-th/9110060;hep-th;0;32;;J.A.Casas,F.Gomez,C.Muñoz;Complete structure of Z_n Yukawa couplings
+hep-th/9110061;hep-th;0;18;;M.A.C.Kneipp;Generalised Abelian Chern-Simons Theories and their Connection to Conformal Field Theories
+hep-th/9110062;hep-th;0;25;;Govindarajan,Nelson,Wong;Semirigid Geometry
+hep-th/9110063;hep-th;0;0;;M.Crescimanno;Fusion Potentials for G_k and Handle Squashing
+hep-th/9110064;hep-th;0;0;;A.P.Polychronakos;New Integrable Systems from Unitary Matrix Models
+hep-th/9110065;hep-th;0;0;;J.H.Horne,G.T.Horowitz,A.R.Steif;An Equivalence Between Momentum and Charge in String Theory
+hep-th/9110066;hep-th,math.QA;0;0;;P.G.O.Freund,A.V.Zabrodin;Macdonald Polynomials from Sklyanin Algebras: A Conceptual Basis for the $p$-Adics-Quantum Group Connection
+hep-th/9110067;hep-th;0;18;;P.Horava;Some Exact Solutions of String Theory in Four and Five Dimensions
+hep-th/9110068;hep-th;0;0;;Y.Tanii,S.-ichi.Yamaguchi;Two-Dimensional Quantum Gravity on a Disk
+hep-th/9110069;hep-th;0;37;;M.Alvarez,J.M.F.Labastida;Analysis of Observables in Chern-Simons Perturbation Theory
+hep-th/9110070;hep-th;0;29;;I.Pesando,A.Tollsten;Heterotic instantons and solitons in anomaly-free supergravity
+hep-th/9110071;hep-th;0;21;;N.Ishibashi;Extra Observables in Gauged WZW Models
+hep-th/9110072;hep-th;0;37;;A.P.Balachandran,G.Bimonte,K.S.Gupta,A.Stern;Conformal Edge Currents in Chern-Simons Theories
+hep-th/9110073;hep-th;0;17;;J.de Boer,J.Goeree;The Covariant W_3 Action
+hep-th/9110074;hep-th;0;12;;H.Hinrichsen,V.Rittenberg;A Two Parameter Deformation of the SU(1/1) Superalgebra and the XY Quantum Chain in a Magnetic Field
+hep-th/9110075;hep-th;0;0;;A.Parkes;On N=2 strings and classical scattering solutions of self-dual Yang-Mills in (2,2) spacetime
+hep-th/9110076;hep-th;0;45;;K.Gawedzki;Non-Compact WZW Conformal Field Theories
+hep-th/9111001;hep-th;0;16;;T.Eguchi;Topological Field Theories and Space-Time Singularity
+hep-th/9111002;hep-th;0;0;;H.Lu,C.N.Pope,X.J.Wang,K.W.Xu;Anomaly Freedom and Realisations for Super-$W_3$ Strings
+hep-th/9111003;hep-th;0;20;;Z.Yang;A Remark on Conformal Anomaly and Extrinsic Geometry of Random Surfaces
+hep-th/9111004;hep-th,math.QA;0;11;;D.S.Freed,F.Quinn;Chern-Simons Theory with Finite Gauge Group
+hep-th/9111005;hep-th,math.QA;0;20;;C.Gomez,G.Sierra;Quantum Harmonic Oscillator Algebra and Link Invariants
+hep-th/9111006;hep-th;0;0;;A.P.Balachandran,A.M.Srivastava;Chern-Simons Dynamics and the Quantum Hall Effect
+hep-th/9111007;hep-th;0;43;;H.Saleur;Polymers and percolation in two dimensions and twisted N=2 supersymmetry
+hep-th/9111008;hep-th;0;57;;H.Saleur;Geometrical Lattice models for N=2 supersymmetric theories in two dimensions
+hep-th/9111009;hep-th;0;6;;R.Kallosh;Geometry of Scattering at Planckian Energies
+hep-th/9111010;hep-th;0;30;;R.Kallosh;D=10 supersymmetric chern-simons gauge theory
+hep-th/9111011;hep-th;0;14;;T.Jonsson;Intrinsic and extrinsic geometry of random surfaces
+hep-th/9111012;hep-th;0;24;;J.A.Minahan;Flows and Solitary Waves in Unitary Matrix Models with Logarithmic Potentials
+hep-th/9111013;hep-th;0;0;;S.Mukhi;Extra States in C<1 String Theory
+hep-th/9111014;hep-th;0;58;;P.Fendley,K.Intriligator;Scattering and Thermodynamics of Fractionally-Charged Supersymmetric Solitons
+hep-th/9111015;hep-th;0;0;;P.E.Haagensen;Differential Renormalization of the Wess-Zumino Model
+hep-th/9111016;hep-th;0;17;;S.Cecotti,C.Vafa;Exact Results for Supersymmetric Sigma Models
+hep-th/9111017;hep-th;0;45;;C.Vafa;Topological Mirrors and Quantum Rings
+hep-th/9111018;hep-th;0;0;;G.Aldazabal,I.Allekotte,A.Font,C.Nunez;N=2 Coset Compactifications with Non-Diagonal Invariants
+hep-th/9111019;hep-th;0;9;;S.L.Glashow;Physics Focus and Fiscal Forces
+hep-th/9111020;hep-th;0;28;;M.Bourdeau,E.J.Mlawer,H.Riggs,H.J.Schnitzer;Topological Landau-Ginzburg Matter from Sp(N)_K Fusion Rings
+hep-th/9111021;hep-th;0;0;;S.R.Das,A.Dhar,G.Mandal,S.R.Wadia;Bosonization of Nonrelativistic Fermions and W-infinity Algebra
+hep-th/9111022;hep-th;0;34;;C.Ahn;Restricted sine-Gordon Theory in the Repulsive Regime as Perturbed Minimal CFTs
+hep-th/9111023;hep-th,math.QA;0;0;;R.Floreanini,L.Vinet;Representation of Quantum Algebras and q-Special Functions
+hep-th/9111024;hep-th;0;23;;K.-ji.Hamada;Ward Identities of Liouville Gravity coupled to Minimal Conformal Matter
+hep-th/9111025;hep-th,math.AG;0;29;;D.R.Morrison;Picard-Fuchs equations and mirror maps for hypersurfaces
+hep-th/9111026;hep-th;0;0;;J.Cardy;Critical Percolation in Finite Geometries
+hep-th/9111027;hep-th;0;38;;M.Caselle,G.Ponzano,F.Ravanini;Towards a Classification of Fusion Rule Algebras in Rational Conformal Field Theories
+hep-th/9111028;hep-th;0;0;;J.Avan,A.Jevicki;String field actions from W-infinity
+hep-th/9111029;hep-th;0;0;;M.Evans,I.Giannakis;Isolated States and the Classical Phase Spase of 2-d String Theory
+hep-th/9111030;hep-th;0;0;;A.D'adda;Comments on Supersymmetric Vector and Matrix Models
+hep-th/9111031;hep-th;0;70;;J.Ellis,N.E.Mavromatos,D.V.Nanopoulos;On the Evaporation of Black Holes in String Theory
+hep-th/9111032;hep-th;0;32;;B.Spence;W-Algebra Symmetries of Generalised Drinfel'd-Sokolov Hierarchies
+hep-th/9111033;hep-th;0;0;;S.A.Yost;Supermatrix Models
+hep-th/9111034;hep-th;0;37;;K.Schoutens,A.Sevrin,P.van Nieuwenhuizen;Quantum W_3 Gravity
+hep-th/9111035;hep-th;0;63;;G.Moore,M.R.Plesser,S.Ramgoolam;Exact S-Matrix for 2D String Theory
+hep-th/9111036;hep-th;0;30;;O.Babelon,D.Bernard;Dressing Symmetries
+hep-th/9111037;hep-th;0;3;;S.Kharchev,A.Marshakov,A.Mironov,A.Morozov,A.Zabrodin;Unification of All String Models with $c<1$
+hep-th/9111038;hep-th;0;0;;M.D.McGuigan,C.R.Nappi,S.A.Yost;Charged Black Holes in Two-Dimensional String Theory
+hep-th/9111039;hep-th;0;44;;H.Itoyama;Matrix Models at Finite N
+hep-th/9111040;hep-th;0;26;;I.Bars,K.Sfetsos;A Superstring Theory in Four Curved Space-Time Dimensions
+hep-th/9111041;hep-th;0;29;;A.M.Sengupta;Instabilities in the gravitational background and string theory
+hep-th/9111042;hep-th;0;0;;G.Gilbert;"the Instability of String-Theoretic Black Holes"
+hep-th/9111043;hep-th;0;35;;T.Tjin;An introduction to quantized Lie groups and algebras
+hep-th/9111044;hep-th;0;34;;N.Mohammedi;Modified Black Holes in Two Dimensional Gravity
+hep-th/9111045;hep-th;0;0;;K.Lee,V.P.Nair,E.J.Weinberg;A Classical Instability of Reissner-Nordstrom Solutions and the Fate of Magnetically Charged Black Holes
+hep-th/9111046;hep-th;0;37;;D.A.Depireux,P.Mathieu;On the classical $W_N^{(l)}$ algebras
+hep-th/9111047;hep-th;0;13;;J.Bienkowska;The generalized no-ghost theorem for N=2 SUSY critical strings
+hep-th/9111048;hep-th;0;46;;D.Kutasov,E.Martinec,N.Seiberg;Ground Rings and Their Modules in 2D Gravity with $c≤1$ Matter
+hep-th/9111049;hep-th;0;0;;N.Sakai,Y.Tanii;Operator Product Expansion and Topological States in $c = 1$ Matter Coupled to 2-D Gravity
+hep-th/9111050;hep-th;0;19;;H.Yoshii;On Moduli Space of C=0 Topological Conformal Field Theories
+hep-th/9111051;hep-th;0;41;;A.M.Semikhatov;Kontsevich - Miwa Transform of the Virasoro Constraints as Null-Vector Decoupling Equations
+hep-th/9111052;hep-th;0;7;;E.Witten;On Black Holes In String Theory
+hep-th/9111053;hep-th;0;0;;R.Floreanini,R.Percacci,E.Sezgin;Quantum Mechanics on the Circle and W_{1+\INFTY }
+hep-th/9111054;hep-th;0;0;;A.Das,E.Sezgin,S.J.Sin;The Super W_\INFTY Symmetry of the Manin-Radul Super KP Hierarchy
+hep-th/9111055;hep-th;0;0;;H.Neuberger;Three Dimensional Periodic $U(1)$ Gauge Theory and Strings
+hep-th/9111056;hep-th;0;14;;C.Callan,S.Giddings,J.Harvey,A.Strominger;Evanescent Black Holes
+hep-th/9111057;hep-th;0;0;;E.Abdalla,M.C.B.Abdalla,D.Dalmazi,K.Harada;General Neveu-Schwarz Correlators in Super Liouville Theory
+hep-th/9111058;hep-th,math.QA;0;29;;S.Odake;Unitary Representations of $W$ Infinity Algebras
+hep-th/9111059;hep-th;0;33;;J.Gomis,H.Suzuki;N=2 String as a Topological Conformal Algebra
+hep-th/9111060;hep-th;0;24;;M.Caselle,F.Gliozzi;Self-avoiding effective strings in lattice gauge theories
+hep-th/9111061;hep-th;0;28;;C.Ahn;c=5/2 Free Fermion Model of WB_2 Algebra
+hep-th/9111062;hep-th;0;38;;P.Bowcock,G.Watts;On the classification of quantum W-algebras
+hep-th/9111063;hep-th,math.QA;0;24;;R.K.Kaul,T.R.Govindarajan;Three Dimensional Chern-Simons Theory as a Theory of Knots and Links
+hep-th/9111064;hep-th;0;29;;S.Dalley;On Loop Equations In KdV Exactly Solvable String Theory
+hep-lat/9112001;hep-lat;0;9;;H.G.Evertz;Vectorized Cluster Search
+hep-lat/9112002;hep-lat;0;101;;R.G.Edwards,S.J.Ferreira,J.Goodman,A.D.Sokal;Multi-Grid Monte Carlo III. Two-Dimensional O(4)-Symmetric Nonlinear $σ$-Model
+hep-th/9112001;hep-th;0;18;;E.Raiten;Perturbations of a Stringy Black Hole
+hep-th/9112002;hep-th,math.QA;0;0;;J.Stasheff;Homological (ghost) approach to constrained Hamiltonian systems
+hep-th/9112003;hep-th;0;20;;S.Nojiri;Non-perturbative Aspect of Zero Dimensional Supersring
+hep-th/9112004;hep-th;0;0;;A.A.Tseytlin;Dilaton, winding modes and cosmological solutions
+hep-th/9112005;hep-th;0;0;;C.Schmidhuber;Path Integral Over Conformally Self-Dual Geometries
+hep-th/9112006;hep-th;0;0;;A.N.Schellekens;Classification of Ten-Dimensional Heterotic Strings
+hep-th/9112007;hep-th;0;19;;G.W.Delius,M.T.Grisaru,D.Zanon;Exact s-Matrices for the Nonsimply-Laced Affine Toda Theories $a_{2n-1}^{(2)}$
+hep-th/9112008;hep-th;0;0;;K.Lee,V.P.Nair,E.J.Weinberg;Black Holes in Magnetic Monopoles
+hep-th/9112009;hep-th;0;37;;F.Yu,Y.-S.Wu;Nonlinear $\hat W_∞$ Current Algebra in the SL(2,R)/U(1) Coset Model
+hep-th/9112010;hep-th;0;37;;N.Marcus,Y.Oz,S.Yankielowicz;Harmonic Space, Self-Dual Yang Mills and the $N=2$ String
+hep-th/9112011;hep-th;1;63;hep-th/9205068;S.Kalara,J.Lopez,D.Nanopoulos;Modular invariance and nonrenormalizable interactions
+hep-th/9112012;hep-th;0;67;;M.Blau,G.Thompson;N=2 topological gauge theory, the Euler characteristic of moduli spaces, and the Casson invariant
+hep-th/9112013;hep-th;0;95;;P.Ginsparg;Matrix models of 2d gravity
+hep-th/9112014;hep-th;0;0;;H.Lu,C.N.Pope,X.J.Wang,K.W.Xu;N=2 Superstrings with (1,2m) Spacetime Signature
+hep-th/9112015;hep-th;1;20;hep-th/9110052;K.R.Dienes,S.-H.H.Tye;Model-Building for Fractional Superstrings
+hep-th/9112016;hep-th;0;39;;A.M.Semikhatov;Virasoro Action and Virasoro Constraints on Integrable Hierarchies of the $r$-Matrix Type
+hep-th/9112017;hep-th;0;43;;J.L.Miramontes,J.S.Guillen;Universality and Non-Perturbative Definitions of 2D Quantum Gravity from Matrix Models
+hep-th/9112018;hep-th;0;0;;L.Alvarez-Gaume,H.Itoyama,J.L.Manes,A.Zadra;Superloop Equations and Two Dimensional Supergravity
+hep-th/9112019;hep-th;0;75;;E.Martinec;An Introduction to 2d Gravity and Solvable String Models
+hep-th/9112020;hep-th;0;0;;R.Jackiw,D.Kabat,M.Ortiz;Electromagnetic fields of a massless particle and the eikonal
+hep-th/9112021;hep-th;0;16;;Y.Kitazawa;Puncture Operator in c=1 Liouville Gravity
+hep-th/9112022;hep-th,math.QA;0;0;;D.Arnaudon;New fusion rules and $\cR $-matrices for $SL(N)_q$ at roots of unity
+hep-th/9112023;hep-th;0;15;;M.J.Duff,R.R.Khuri,J.X.Lu;String and Fivebrane Solitons: Singular or Non-singular?
+hep-th/9112024;hep-th;0;39;;E.Wong;Recursion relations in semirigid topological gravity
+hep-th/9112025;hep-th;0;0;;E.Sezgin;Aspects of W_\INFTY Symmetry
+hep-th/9112026;hep-th;0;25;;A.Ali,A.Kumar;Topological Kac-Moody Algebra and Wakimoto Representation
+hep-th/9112027;hep-th;0;40;;B.de Wit,A.V.Proeyen;Special geometry, cubic polynomials and homogeneous quaternionic spaces
+hep-th/9112028;hep-th;0;78;;E.Bergshoeff,M.de Roo;N=2 $W$-supergravity
+hep-th/9112029;hep-th;0;0;;D.Ghoshal,S.Mahapatra;Three-Point Functions of Non-Unitary Minimal Matter Coupled to Gravity
+hep-th/9112030;hep-th;0;58;;C.G.Callan Jr,J.A.Harvey,A.E.Strominger;Supersymmetric String Solitons
+hep-th/9112031;hep-th;0;29;;W.A.Leaf-Herrmann;From Here to Criticality: Renormalization Group Flow Between Two Conformal Field Theories
+hep-th/9112032;hep-th;0;29;;M.Lassig;Multiple Crossover Phenomena and Scale Hopping in Two Dimensions
+hep-th/9112033;hep-th;0;22;;S.Govindarajan,T.Jayaraman,V.John,P.Majumdar;States of non-zero ghost number in $c<1$ matter coupled to 2d gravity
+hep-th/9112034;hep-th;0;21;;F.Bastianelli;A Novel Chiral Boson
+hep-th/9112035;hep-th;0;25;;F.Bastianelli;The Path Integral for a Particle in Curved Spaces and Weyl Anomalies
+hep-th/9112036;hep-th;0;0;;P.Bouwknegt,J.McCarthy,K.Pilch;Ground ring for the 2D NSR string
+hep-th/9112037;hep-th;0;0;;R.C.Myers,V.Periwal;From polymers to quantum gravity: triple-scaling in rectangular matrix models
+hep-th/9112038;hep-th;0;27;;M.Alford,K.-M.Lee,J.March-Russell,J.Preskill;Quantum Field Theory of Nonabelian Strings and Vortices
+hep-th/9112039;hep-th;0;13;;M.Bucher,H.-K.Lo,J.Preskill;Topological Approach to Alice Electrodynamics
+hep-th/9112040;hep-th;0;14;;M.Bucher,K.-M.Lee,J.Preskill;On Detecting Discrete Cheshire Charge
+hep-th/9112041;hep-th,nlin.SI,solv-int;0;0;;K.Takasaki;Area-Preserving Diffeomorphisms and Nonlinear Integrable Systems
+hep-th/9112042;hep-th,nlin.SI,solv-int;0;0;;K.Takasaki,T.Takebe;SDiff(2) Toda equation -- hierarchy, $τ$ function, and symmetries
+hep-th/9112043;hep-th;0;38;;K.-ichiro.Kobayashi,T.Uematsu;Quantum Conserved Charges and S-matrices in N=2 Supersymmetric Sine-Gordon Theory
+hep-th/9112044;hep-th;0;0;;M.Gasperini,G.Veneziano;$O(d,d)$-Covariant String Cosmology
+hep-th/9112045;hep-th;0;0;;O.Lechtenfeld;Semiclassical Approach to Finite-N Matrix Models
+hep-th/9112046;hep-th,nlin.SI,solv-int;0;0;;K.Takasaki,T.Takebe;SDiff(2) KP hierarchy
+hep-th/9112047;hep-th;0;0;;M.Kreuzer,R.Schimmrigk,H.Skarke;Abelian Landau--Ginzburg Orbifolds and Mirror Symmetry
+hep-th/9112048;hep-th;1;26;hep-th/9112048;J.Zinn-Justin;$O(N)$ Vector Field Theories in the Double Scaling Limit
+hep-th/9112049;hep-th;0;0;;S.Ferrara,J.Louis;Flat Holomorphic Connections and Picard-Fuchs Identities From $N=2$ Supergravity
+hep-th/9112050;hep-th;0;0;;L.E.Ibanez;Topics in String Unification
+hep-th/9112051;hep-th;0;40;;J.M.F.Labastida,P.M.Llatas;Topological Matter in Two Dimensions
+hep-th/9112052;hep-th;0;0;;S.R.Das,A.Dhar,G.Mandal,S.R.Wadia;$W$-Infinity Ward Identities and Correlation Functions in the $C=1$ Matrix Model
+hep-th/9112053;hep-th;0;0;;G.I.L.Systems;C.S.Xiong
+hep-th/9112054;hep-th;0;19;;J.March-Russell,J.Preskill,F.Wilczek;Internal Frame Dragging and a Global Analog of the Aharonov-Bohm Effect
+hep-th/9112055;hep-th;0;28;;A.M.Semikhatov;A Conformal Field Theory Formalism from Integrable Hierarchies via the Kontsevich--Miwa Transform
+hep-th/9112056;hep-th;0;16;;E.Witten;Mirror Manifolds And Topological Field Theory
+hep-th/9112057;hep-th;0;22;;C.Ahn,K.Shigemoto;One-Point Functions of Loops and Constraints Equations of the Multi-Matrix Models at finite N
+hep-th/9112058;hep-th;0;68;;Yu.Makeenko;Loop Equations and Virasoro Constraints in Matrix Models
+hep-th/9112059;hep-th;0;83;;I.Kostov;Strings with Discrete Target Space
+hep-th/9112060;hep-th;0;43;;J.de Boer,J.Goeree;W Gravity From Chern--Simons Theory
+hep-th/9112061;hep-th;1;34;hep-th/9109032;U.H.Danielsson;Symmetries and Special States in Two Dimensional String Theory
+hep-th/9112062;hep-th;0;55;;J.Ellis,N.Mavromatos,D.Nanopoulos;Quantum Mechanics and Black Holes in Four-Dimensional String Theory
+hep-th/9112063;hep-th;0;17;;P.D.Francesco,P.Mathieu,D.Senechal;Integrability of the quantum KdV equation at c = -2
+hep-th/9112064;hep-th;0;19;;M.Blau,G.Thompson;Topological gauge theories from supersymmetric quantum mechanics on spaces of connections
+hep-th/9112065;hep-th;0;0;;F.Dowker,R.Gregory,J.Traschen;Euclidean Black Hole Vortices
+hep-th/9112066;hep-th;1;40;hep-th/9109015;K.N.Anagnostopoulos,M.J.Bowick,A.Schwarz;The Solution Space of the Unitary Matrix Model String Equation and the Sato Grassmannian
+hep-th/9112067;hep-th;1;60;hep-th/9112067;M.Bellon,J.-M.Maillard,C.Viallet;On the Symmetries of Integrability
+hep-th/9112068;hep-th;0;0;;L.Feher,L.O'raifeartaigh,P.Ruelle,I.Tsutsui,A.Wipf;On the General Structure of Hamiltonian Reductions of the Wznw Theory
+hep-th/9112069;hep-th;0;31;;D.J.Gross,M.J.Newman;Unitary And Hermitian Matrices In An External Field II: The Kontsevich Model And Continuum Virasoro Constraints
+hep-th/9112070;hep-th;0;48;;A.Giveon,M.Rocek;Generalized Duality in Curved String-Backgrounds
+hep-th/9112071;hep-th,math.QA;0;0;;S.K.Rama,S.Sen;Three Manifolds and Graph Invariants
+hep-th/9112072;hep-th;0;0;;H.Ooguri;Partition Functions and Topology-Changing Amplitudes in the 3D Lattice Gravity of Ponzano and Regge
+hep-th/9112073;hep-th;0;22;;T.Kawai,T.Uchino,S.-K.Yang;Higher-Rank Supersymmetry and Topological Field Theory
+hep-th/9112074;hep-th;0;0;;F.Fucito,A.Gamba,M.Martellini,O.Ragnisco;Non-linear WKB Analysis of the String Equation
+hep-th/9112075;hep-th;1;21;hep-th/9202013;V.Spiridonov;Exactly Solvable Potentials and Quantum Algebras
+hep-th/9112076;hep-th;0;0;;C.N.Pope;Lectures on W algebras and W gravity
+# 306 entries
+# 3047 / 6366 = 0.4786 total success rate
+# | Category | Papers | ArXiv refs | Total refs | Avg. arXiv | Avg. total |  Ratio |
+# |:--------:| ------:| ----------:| ----------:| ----------:| ----------:| ------:|
+# |  hep-lat |      4 |         67 |        110 |      16.75 |      27.50 | 60.91% |
+# |   hep-th |    302 |       2980 |       6256 |       9.86 |      20.72 | 47.63% |
