@@ -3,7 +3,7 @@ Paperscape data
 
 Publicly available graph data for Paperscape (http://paperscape.org) in CSV format. Includes authors, title and references.
 
-If you use this data, please give us credit. We are in the process of writing a scientific paper, but in the mean time you could use the following BibTeX entry:
+If you use this data, please give us credit by citing the following BibTeX entry:
 
 ```
 @misc{paperscape,
@@ -25,7 +25,7 @@ Our algorithms are currently most successful for high energy physics categories,
 | Category | Papers | ArXiv refs | Total refs | Avg. arXiv | Avg. total |  Ratio |
 |:--------:| ------:| ----------:| ----------:| ----------:| ----------:| ------:|
 |  hep-lat |  13784 |     299121 |     364349 |      21.70 |      26.43 | 82.10% |
-|   hep-ph |  96173 |    3332496 |    4114100 |     34.65e |      42.78 | 81.00% |
+|   hep-ph |  96173 |    3332496 |    4114100 |      34.65 |      42.78 | 81.00% |
 |   hep-th |  76801 |    2270045 |    2820872 |      29.56 |      36.73 | 80.47% |
 |   hep-ex |  16553 |     339068 |     496602 |      20.48 |      30.00 | 68.28% |
 |    gr-qc |  38488 |     867542 |    1338659 |      22.54 |      34.78 | 64.81% |
